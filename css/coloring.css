@@ -3,8 +3,8 @@
 	* this is primary color, applied on:
 	* background, underline
 	 */
-	--primary: #262626;
-	--primary-disabled: #292222;
+	--primary: #23272A;
+	--primary-disabled: #2C2F33;
 	/*
 	* this is secondary color, applied on:
 	* text, border
@@ -15,11 +15,11 @@
 	* this is third color, applied on:
 	* button, 
 	*/
-	--third: #b31414;
-	--third-disabled: #8c1111;
+	--third: #2C2F33;
+	--third-disabled: #015bfa;
 	/*
 	* other colors, used on random object.
 	*/
-	--o1: #00b2c9;
-	--o1-disabled: #008191;
+	--o1:#015bfa;
+	--o1-disabled: #015bfa;
 }
